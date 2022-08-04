@@ -176,9 +176,7 @@ body {
 }
 
 .footer {
-  position: absolute;
   width: 100%;
-  left: 0;
   background: #fff;
   color: #222233;
 }
